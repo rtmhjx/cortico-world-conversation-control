@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-10-13T15:43:08.821Z",
+  "repository": "rtmhjx/cortico-world-conversation-control",
+  "visibility": "private",
+  "kind": "packaged-source-review",
+  "sourceTreeInside": "dsh-cortico-conversation-control-review-20261013-r3.zip",
+  "versions": {
+    "gateway": "0.1.9",
+    "world": "0.1.4"
+  },
+  "containsProductionState": false,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 48186,
+      "sha256": "48295d2a5084655dd9f9cc9fd9172942e93351057d68f6c6d3ed1084288bf5b5"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 3798,
+      "sha256": "046bc425367314b7dbaa89563f3a868482c68060d636a99c020917bb184710e2"
+    },
+    {
+      "path": "LICENSING.md",
+      "bytes": 1623,
+      "sha256": "92b39224af3b3b26123d0b54c4e55c558e69de4ebfb93ebfb928774a995f22f3"
+    },
+    {
+      "path": "RELEASE-STATUS.md",
+      "bytes": 3746,
+      "sha256": "df9f4ff646b0e2a244a14d4e00db6480e406c44309fb33530eea38f22479fe11"
+    },
+    {
+      "path": "CONVERSATION-CONTROL-HANDOFF.md",
+      "bytes": 494,
+      "sha256": "74c0ba15b18232d4aa1d965ad15079548ff1a9281b68d184f8404e927e4c6f7c"
+    },
+    {
+      "path": "SANITIZATION.json",
+      "bytes": 982,
+      "sha256": "a51e513d6e3819b7c693755b6efd7acd4052f0df8e2434550aae3ca548da7902"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 202,
+      "sha256": "49f24b9e1da830ca6c83ecadbd8329b529386a9b7ce974612c3fab5558b48ba7"
+    },
+    {
+      "path": "dsh-cortico-conversation-control-review-20261013-r3.zip",
+      "bytes": 396805,
+      "sha256": "2b0d656edc1c85a0115429f15a1dd7c8a0ec608b989ad9a28124b2c907921279"
+    },
+    {
+      "path": "dsh-cortico-conversation-control-review-20261013-r3.zip.sha256",
+      "bytes": 122,
+      "sha256": "9ad88d135b607b11018fde1386576aedf7a09451cdc056dc8713223c4bb6ec93"
+    },
+    {
+      "path": "dsh-conversation-gateway-0.1.9.tgz",
+      "bytes": 78232,
+      "sha256": "42b3ee388c86316e5a707bdfdc5ab80045e802ecacd007d101849f8c1c063719"
+    },
+    {
+      "path": "cortico-world-conversation-control-0.1.4.tgz",
+      "bytes": 43276,
+      "sha256": "0ae0d632f6d463cd16707682df83f4b1fb13b5d816b3c1a08792b416e05f0d4b"
+    },
+    {
+      "path": "ARTIFACT-SHA256SUMS.txt",
+      "bytes": 334,
+      "sha256": "a6f74cd71c44195f103fc04e20c08cb35d030008cb3c482d588f1e031dfcd60b"
+    }
+  ]
+}

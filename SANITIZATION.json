@@ -1,0 +1,29 @@
+{
+  "at": "2026-10-13T15:36:30.834Z",
+  "scope": "Allowlisted source, tests, documents, compiled artifacts and decompressed package members",
+  "findings": [],
+  "checks": {
+    "managedCredentialExactMatch": "checked-in-memory-only",
+    "personalUserAndLiveOperationIdentifiers": "checked",
+    "credentialShapePatterns": "checked",
+    "runtimeDataAndLogPaths": "excluded-by-allowlist",
+    "symlinks": "rejected",
+    "archiveMembersChecked": 10
+  },
+  "exclusions": [
+    "production config",
+    "raw reports",
+    "logs and chat transcripts",
+    "credentials",
+    "databases",
+    "backups",
+    "operational scripts",
+    "private handoff"
+  ],
+  "limitations": [
+    "Local generic code/test paths remain and are documented portability constraints.",
+    "Pattern checks are not exhaustive secret detection or a complete security audit.",
+    "Package license metadata is retained; complete public licensing review is pending."
+  ],
+  "containsCredentialValues": false
+}

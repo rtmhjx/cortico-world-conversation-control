@@ -1,0 +1,3 @@
+2b0d656edc1c85a0115429f15a1dd7c8a0ec608b989ad9a28124b2c907921279  dsh-cortico-conversation-control-review-20261013-r3.zip
+42b3ee388c86316e5a707bdfdc5ab80045e802ecacd007d101849f8c1c063719  dsh-conversation-gateway-0.1.9.tgz
+0ae0d632f6d463cd16707682df83f4b1fb13b5d816b3c1a08792b416e05f0d4b  cortico-world-conversation-control-0.1.4.tgz
